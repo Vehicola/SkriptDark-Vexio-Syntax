@@ -1,0 +1,15 @@
+{
+  "name": "SkriptDark-Syntax",
+  "theme": "syntax",
+  "version": "2.1.2",
+  "description": "Vexio's Dark Theme for Skript",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/Vehicola/SkriptDark-Vexio-Syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
